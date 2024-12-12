@@ -1,4 +1,4 @@
-alert("plz... akele me dekhna and alga kahake ni pathabu");
+alert("plz... ekla dekhbu and alga kahake ni pathabu");
 
 let slideIndex = 1;
 showSlides(slideIndex);
